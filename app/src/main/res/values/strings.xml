@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">QuizApp_v1</string>
+    <string name="true_false">True/False</string>
+    <string name="multiple_choices">Multiple Choices</string>
+    <string name="quiz_app_v1_0">Quiz App v1.0</string>
+    <string name="textview4Q"></string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="falseButton">False</string>
+    <string name="trueButton">True</string>
+    <string name="t_f_with_buttons">T/F with buttons</string>
+    <string name="t_f_with_selection">T/F with selection</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="quiz_app_v3_0">quizV3</string>
+
+</resources>

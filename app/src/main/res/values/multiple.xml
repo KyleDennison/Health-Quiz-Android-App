@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mq1">Which is the biggest planet?</string>
+    <string-array name="mc1">
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Jupiter</item>
+    </string-array>
+    <array name="ma1">
+        <item>2</item>
+    </array>
+
+    <string name="mq2">Which is the biggest country?</string>
+    <string-array name="mc2">
+        <item>Russia</item>
+        <item>China</item>
+        <item>USA</item>
+        <item>Iraq</item>
+        <item>Canada</item>
+    </string-array>
+    <array name="ma2">
+        <item>0</item>
+    </array>
+
+    <string name="mq3">Which presidents are Republicans?</string>
+    <string-array name="mc3">
+        <item>Clinton</item>
+        <item>Bush</item>
+        <item>Trump</item>
+        <item>Carter</item>
+    </string-array>
+    <array name="ma3">
+        <item>1</item>
+        <item>2</item>
+    </array>
+
+
+
+
+    <string name="mq4">Guinness Book Of Records holds the record for being the book most stolen from Public Libraries</string>
+    <string-array name="mc4">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <array name="ma4">
+        <item>0</item>
+    </array>
+
+    <string name="mq5">The parachute was invented by Da Vinci in 1515</string>
+    <string-array name="mc5">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <array name="ma5">
+        <item>1</item>
+    </array>
+
+
+</resources>

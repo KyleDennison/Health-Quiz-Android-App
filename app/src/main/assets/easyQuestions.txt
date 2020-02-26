@@ -1,0 +1,2 @@
+[{"mIsMultipleChoice":true,"mTFAnswer":false,"mQuestion":"Which of the following not one of the three things a doctor might ask? ","mOptions":["Symptoms","Medicines currently being taken","Criminal Record","Health History"],"mAnswers":[2]},
+{"mIsMultipleChoice":true,"mTFAnswer":false,"mQuestion":"How can you get over-the-counter medicine? ","mOptions":["Get a prescription from a doctor","Schedule an appointment","Fill out a form","Just buy it"],"mAnswers":[3]}]0

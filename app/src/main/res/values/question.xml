@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="q1">Guinness Book Of Records holds the record for being the book most stolen from Public Libraries</string>
+    <string name="q2">The year is 2018</string>
+    <string name="q3">In Cleveland, Ohio it is illegal to catch mice without a hunting license</string>
+    <string name="q4">The parachute was invented by Da Vinci in 1515</string>
+    <string name ="q5">There are 86,250 seconds in day</string>
+    <string name="q6">A goldfish has a memory span of about 8 seconds</string>
+    <string name="q7">Your right lung takes in more air than your left one does</string>
+    <string name="q8">In Sweden there is a ski-thru McDonalds</string>
+    <string name="q9">Babies are born without knee caps. They don\'t appear until the child reaches 2-6 years of age</string>
+    <string name="q10">The hardness of ice is similar to that of concrete</string>
+    <string name="q11">The human brain is 80% water</string>
+    <string name="q12">No word in the English dictionary rhymes with "MONTH"</string>
+    <bool name="a1">true</bool>
+    <bool name="a2">false</bool>
+    <bool name="a3">true</bool>
+    <bool name="a4">false</bool>
+    <bool name="a5">true</bool>
+    <bool name="a6">false</bool>
+    <bool name="a7">true</bool>
+    <bool name="a8">false</bool>
+    <bool name="a9">true</bool>
+    <bool name="a10">false</bool>
+    <bool name="a11">false</bool>
+    <bool name="a12">true</bool>
+</resources>
